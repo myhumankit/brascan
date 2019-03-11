@@ -30,6 +30,18 @@
         ],
         "contributors": [
             {
+                "full_name": "Harm Dunnewind",
+                "role": "Porteur de projet"
+            },
+            {
+                "full_name": "Gaël Danaire",
+                "role": "Contributeur"
+            },
+            {
+                "full_name": "André Becot",
+                "role": "Contributeur"
+            },
+            {
                 "full_name": "Julien Lebunetel",
                 "email": "julien@myhumankit.org",
                 "github_username": "jlebunetel",
