@@ -34,18 +34,26 @@
                 "role": "Porteur de projet"
             },
             {
-                "full_name": "Gaël Danaire",
-                "role": "Contributeur"
-            },
-            {
                 "full_name": "André Becot",
                 "role": "Contributeur"
             },
             {
+                "full_name": "Gaël Danaire",
+                "role": "Contributeur"
+            },
+            {
                 "full_name": "Julien Lebunetel",
+                "role": "Fabmanager référent",
                 "email": "julien@myhumankit.org",
-                "github_username": "jlebunetel",
-                "role": "Fabmanager référent"
+                "github_username": "jlebunetel"
+            }
+        ],
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/20190206_175933.jpg",
+                    "caption": "Brascan"
+                }
             }
         ]
     }

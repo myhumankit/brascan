@@ -4,7 +4,7 @@
 
 Un bras tournant, support de Kinect, pour scanner des membres.
 
-![featured_image](https://raw.githubusercontent.com/myhumankit/myworkshop/master/images/default_featured_image.jpg)
+![Brascan](images/20190206_175933.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/brascan)
@@ -39,7 +39,10 @@ Si vous souhaitez contribuer au projet, merci de créer une _issue_ ou de _forke
 Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de details.
 
 ## Contributeurs
- * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
+ * **Harm Dunnewind** (Porteur de projet) ;
+ * **André Becot** (Contributeur);
+ * **Gaël Danaire** (Contributeur) ;
+ * **Julien Lebunetel** (Fabmanager référent) - [jlebunetel](https://github.com/jlebunetel)
 
 ---
 
@@ -78,4 +81,7 @@ If you'd like to contribute, please raise an issue or fork the repository and us
 The code in this project is licensed under MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Contributors
- * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
+ * **Harm Dunnewind** (Project's Holder);
+ * **André Becot** (Contributor);
+ * **Gaël Danaire** (Contributor) ;
+ * **Julien Lebunetel** (Referent Fabmanager) - [jlebunetel](https://github.com/jlebunetel)
